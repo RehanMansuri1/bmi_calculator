@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.781d5ab3.css",
-    "main.js": "/static/js/main.bd7de6d4.js",
-    "static/js/453.90e0b20f.chunk.js": "/static/js/453.90e0b20f.chunk.js",
-    "index.html": "/index.html",
-    "main.781d5ab3.css.map": "/static/css/main.781d5ab3.css.map",
-    "main.bd7de6d4.js.map": "/static/js/main.bd7de6d4.js.map",
-    "453.90e0b20f.chunk.js.map": "/static/js/453.90e0b20f.chunk.js.map"
+    "main.css": "/bmi_calculator/static/css/main.781d5ab3.css",
+    "main.js": "/bmi_calculator/static/js/main.2b01f38e.js",
+    "static/js/453.90e0b20f.chunk.js": "/bmi_calculator/static/js/453.90e0b20f.chunk.js",
+    "index.html": "/bmi_calculator/index.html",
+    "main.781d5ab3.css.map": "/bmi_calculator/static/css/main.781d5ab3.css.map",
+    "main.2b01f38e.js.map": "/bmi_calculator/static/js/main.2b01f38e.js.map",
+    "453.90e0b20f.chunk.js.map": "/bmi_calculator/static/js/453.90e0b20f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.781d5ab3.css",
-    "static/js/main.bd7de6d4.js"
+    "static/js/main.2b01f38e.js"
   ]
 }
